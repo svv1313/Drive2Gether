@@ -1,0 +1,15 @@
+footer {
+    background: #ededed;
+}
+.footer_container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.footer_container_icon a{
+    margin-right: 10px;
+}
+.footer_container_icon {
+    font-size: 40px;
+}

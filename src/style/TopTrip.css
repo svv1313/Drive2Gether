@@ -1,0 +1,33 @@
+.topTrip {
+    width: 100%;
+    background: #ededed;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-size: 30px;
+    color: #563d7c;
+    font-weight: bold;
+}
+.topTrip_container {
+}
+.cardBody {
+    background: white;
+    margin: 20px;
+    border-radius: 5px;
+}
+.cardBody_trip {
+    color: #563d7c;
+    font-weight: bold;
+    font-size: 25px;
+}
+.cardBody_price {
+    color: #5dd172;
+}
+.cardBody_price__text {
+    font-size: 15px;
+    text-align: right;
+}
+.cardBody_price__number {
+    font-size: 22px;
+    text-align: right;
+}

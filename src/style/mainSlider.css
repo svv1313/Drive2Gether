@@ -1,0 +1,19 @@
+.mainSlider {
+    background: url("../img/main-slider.jpg") no-repeat;
+    background-size: cover;
+}
+.mainSlider_container {
+    color: white;
+    padding-top: 350px;
+    padding-bottom: 50px;
+}
+.mainSlider_container_title {
+    color: white;
+}
+.mainSlider_container__buttonSearch {
+    height: 38px;
+    text-align: center;
+}
+.react-date-picker__wrapper {
+    border: none !important;
+}

@@ -1,0 +1,24 @@
+.forDriver_container {
+    margin-top: 50px;
+    color: #563d7c;
+    margin-bottom: 50px;
+}
+.forDriver_container_img {
+    background: url("../img/main-driver.jpg") no-repeat;
+    background-size: contain;
+    height: 380px;
+    border-radius: 10px;
+}
+.forDriver_container_article {
+    margin-top: 50px;
+}
+.forDriver_container_article__title {
+    font-size: 50px;
+}
+.forDriver_container_article__text {
+    font-size: 30px;
+}
+.forDriver_container_article__button {
+    width: 250px;
+    height: 50px;
+}

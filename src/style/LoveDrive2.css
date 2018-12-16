@@ -1,0 +1,23 @@
+.loveDriver {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #563d7c;
+    font-weight: bold;
+}
+.loveDrive_container_title {
+    text-align: left;
+    font-size: 30px;
+}
+.cardLove {
+    margin-top: 20px;
+}
+.cardLove_title {
+    color: #ededed;
+    font-size: 25px;
+}
+.cardLove_icon {
+    margin-bottom: 20px;
+}
+.cardLove_icon i {
+    font-size: 80px;
+}

@@ -1,0 +1,28 @@
+header {
+    overflow: hidden;
+    position: fixed;
+    background: white;
+    width: 100%;
+    color: #563d7c;
+    z-index: 999;
+    font-weight: bold;
+}
+header a {
+    font-size: 15px;
+}
+.header_container {
+    margin-bottom: 20px;
+}
+.header_logo{
+    display: inline-block;
+}
+.header_logo_container__title {
+    margin: 0;
+}
+.header_linkBar {
+    float: right;
+    margin-top: 10px;
+}
+.header_linkBar_container a {
+    margin-right: 10px;
+}
