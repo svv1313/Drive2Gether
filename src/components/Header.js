@@ -10,7 +10,7 @@ class Header extends Component{
                 <div className='header_container container'>
                     <Col lg={6} className='header_logo'>
                         <div className='header_logo_container'>
-                            <h2 className='header_logo_container__title'>Drive2Gether</h2>
+                            <Link to='/'><h2 className='header_logo_container__title'>Drive2Gether</h2></Link>
                         </div>
                     </Col>
                     <Col lg={6}  className='header_linkBar'>

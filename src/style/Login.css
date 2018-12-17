@@ -1,0 +1,26 @@
+span {
+  cursor: pointer;
+}
+.loginForm {
+  margin-top: 100px;
+  text-align: center;
+}
+.loginForm__passwordForgot {
+  color: #756969;
+  display: inline-block;
+  font-weight: bold;
+  border-bottom: 1px solid;
+  margin-bottom: 50px;
+}
+.inputField__placeholder {
+  font-size: 15px;
+  color: #a8a4a4;
+}
+.loginForm_createAccount {
+  margin-top: 20px;
+  color: #756969;
+}
+.loginForm_createAccount__singUp {
+  color: black;
+  font-weight: bold;
+}
